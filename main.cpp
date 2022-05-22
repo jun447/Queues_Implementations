@@ -69,7 +69,7 @@ int main() {
     q.enqueue(5);
     q.enqueue(9);
     q.printQueue();
-    cout<<"Front of queue is "<<q.front()<<endl;
+    cout<<"Front of queue  "<<q.front()<<endl;
     cout<<"====================================="<<endl;
     q.dequeue();
     q.printQueue();
